@@ -7,7 +7,7 @@ export function App() {
         Ignite Lab
       </h1>
       <button className='bg-cyan-500 font-medium px-4 py-2 rounded-sm text-white hover:bg-cyan-300'>
-        Enviar 
+        Confirmar 
         </button>
     </>
   )
